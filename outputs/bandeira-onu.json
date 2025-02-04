@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "2af67a13-2d44-4ddb-9672-da55db304856",
+    "content-length": "160",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a flag with a globe in the center",
+      "confidence": 0.7071337699890137
+    },
+    "metadata": {
+      "width": 275,
+      "height": 183
+    }
+  }

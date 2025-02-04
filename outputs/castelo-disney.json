@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "916193e2-4e43-43fd-a715-d7a093f563c3",
+    "content-length": "164",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a castle with blue towers and flags",
+      "confidence": 0.6802994012832642
+    },
+    "metadata": {
+      "width": 2840,
+      "height": 3787
+    }
+  }
